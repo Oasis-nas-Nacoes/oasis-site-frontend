@@ -198,7 +198,7 @@ export default function PrivacyPolicyPage() {
                 href="https://www.oasisnacoes.org/#contact"
                 className="text-blue-600 hover:underline"
               >
-                oasisnacoes.org/#contact
+                oasisnacao.org/#contact
               </a>
             </li>
           </ul>
