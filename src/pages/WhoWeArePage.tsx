@@ -6,11 +6,7 @@ import { getAssetUrl } from "@/utils/assets";
 export default function WhoWeArePage() {
     const { t } = useTranslation();
 
-    const aboutItems = [
-        { id: 1, descriptionKey: 'WhoWeArePage.section1.item1.description' },
-        { id: 2, descriptionKey: 'WhoWeArePage.section1.item2.description' },
-        { id: 3, descriptionKey: 'WhoWeArePage.section1.item3.description' },
-    ];
+  const aboutItems = ["item1", "item2", "item3"];
 
 
     return (
@@ -48,18 +44,28 @@ export default function WhoWeArePage() {
   </div>
 
     <div className="w-full xl:w-1/2 flex flex-col justify-between items-center xl:items-start gap-6 xl:gap-8">
-      {aboutItems.map((item) => (
-    <h5
-      key={item.id}
-      className="text-gray font-semibold leading-8 text-center xl:text-left"
-    >
-      {processTextWithColorComponents(t(item.descriptionKey))}
-    </h5>
-  ))}
-</div>
+     {aboutItems.map((item) => (
+  <div key={item} className="space-y-2 text-center xl:text-left">
+    <h2 className="text-green font-bold">
+      {t(`WhoWeArePage.section1.${item}.title`)}
+    </h2>
+    <p className="text-gray font-semibold leading-8">
+      {processTextWithColorComponents(
+        t(`WhoWeArePage.section1.${item}.description`)
+      )}
+    </p>
   </div>
-</section>
+))}
 
-        </MainLayout>
+<div className="space-y-2 text-center xl:text-left">
+  <h2 className="text-green font-bold">
+    {t("HomePage.learnSection.title")}
+  </h2>
+  <p className="text-gray font-semibold leading-8">
+    {t("HomePage.learnSection.subTitle")}
+  </p>
+</div>
+</section>
+</MainLayout>
     );
 }
