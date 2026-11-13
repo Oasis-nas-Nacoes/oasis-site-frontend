@@ -21,11 +21,7 @@ export default function WhoWeArePage() {
         >
             
 
-<section className="cs-x-container cs-y-container flex flex-col gap-12">
-  <div id="sobre-nós" className="flex justify-start lg:justify-center">
-    <h1 className="text-green">{t('WhoWeArePage.section1.title')}</h1>
-  </div>
-
+<section id="sobre-nós" className="cs-x-container cs-y-container flex flex-col gap-12">
 <div className="flex flex-col xl:flex-row gap-12 items-center">
   <div className="hidden xl:block relative w-full xl:w-1/2 h-[500px]">
     <img
@@ -57,14 +53,6 @@ export default function WhoWeArePage() {
   </div>
 ))}
 
-<div className="space-y-2 text-center xl:text-left">
-  <h2 className="text-green font-bold">
-    {t("HomePage.learnSection.title")}
-  </h2>
-  <p className="text-gray font-semibold leading-8">
-      {t("HomePage.learnSection.subTitle")}
-  </p>
-</div>
     </div>
   </div>
 </section>
