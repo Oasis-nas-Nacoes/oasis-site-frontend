@@ -62,9 +62,11 @@ export default function WhoWeArePage() {
     {t("HomePage.learnSection.title")}
   </h2>
   <p className="text-gray font-semibold leading-8">
-    {t("HomePage.learnSection.subTitle")}
+      {t("HomePage.learnSection.subTitle")}
   </p>
 </div>
+    </div>
+  </div>
 </section>
 </MainLayout>
     );
