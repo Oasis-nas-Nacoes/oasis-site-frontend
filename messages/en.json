@@ -188,7 +188,7 @@
       },
       "item3": {
         "title": "Spreading the word",
-        "description": "Share Um Oásis nas Nações to raise awareness and encourage as many people as possible to make a difference in a child’s life.",
+        "description": "Share <purple>Oasis for the Nations</purple> to raise awareness and encourage as many people as possible to make a difference in a child’s life.",
         "action": "SHARE"
       }
     },
@@ -323,7 +323,7 @@
       "title": "ABOUT US",
       "item1": {
         "title": "Who We Are",
-        "description": "<purple>Oásis nas Nações</purple> is a nonprofit organization, guided by Christian principles, based in Portugal and Brazil. Our mission is to support communities in situations of vulnerability around the world, expanding children’s access to education and promoting sustainable development. We completed our first project in the community of Bantandja, in Guinea-Bissau, Africa, where we supported the construction of Escola Bom Samaritano."
+        "description": "The <purple>Oasis for the Nations</purple> is a nonprofit organization, guided by Christian principles, based in Portugal and Brazil. Our mission is to support communities in situations of vulnerability around the world, expanding children’s access to education and promoting sustainable development. We completed our first project in the community of Bantandja, in Guinea-Bissau, Africa, where we supported the construction of Escola Bom Samaritano."
       },
       "item2": {
         "title": "Our Vision",
