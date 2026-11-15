@@ -4,20 +4,20 @@
       "home": "HOME",
       "item1": "PROJECTS",
       "item2": "WHO WE ARE",
-      "item3": "GET INVOLVED",
-      "item4": "GET IN TOUCH",
+      "item3": "HOW TO HELP",
+      "item4": "CONTACT",
       "item5": "DONOR PORTAL",
-      "action": "DONATE",
+      "action": "DONATE NOW",
       "dropdowns": {
-        "item1": "Partners",
+        "item1": "Partnerships",
         "item2": "Guinea-Bissau",
-        "item3": "About Us",
-        "item4": "Our Values"
+        "item3": "About us",
+        "item4": "Our values"
       }
     },
     "footer": {
       "itemLeft1": "All rights reserved. Copyright ©",
-      "itemLeft2": "Privacy & Cookie Policy",
+      "itemLeft2": "Privacy Policy and Cookie Policy",
       "itemRight1": "Follow us",
       "itemRight2": "Get in touch"
     },
@@ -25,136 +25,460 @@
   },
   "HomePage": {
     "heroSection": {
-      "title1": "Nurturing hope,<br/> cultivating futures",
-      "subTitle1": "Our mission is to empower children with education, faith, and hope for a bright future.",
-      "action1": "LEARN MORE",
-      "title2": "Discover our first completed project",
-      "subTitle2": "UNDERSTAND THE HEART BEHIND OUR CHOICE: WE BRING HOPE AND EDUCATION TO GUINEA-BISSAU BY SUPPORTING THE BOM SAMARITANO SCHOOL.",
-      "action2": "KNOW MORE",
-      "title3": "ANGOLA — WHAT COMES NEXT",
-      "subTitle3": "Exciting news ahead! We are exploring a new partnership for an educational project in Angola. Stay tuned for more updates.",
-      "action3": "JOIN US"
+      "title1": "Nurturing Hope,<br/> Cultivating Futures",
+      "subTitle1": "OUR MISSION IS TO EMPOWER CHILDREN WITH EDUCATION, FAITH, AND HOPE FOR A BRIGHT FUTURE.",
+      "action1": "WHO WE ARE",
+      "title2": "Learn about our first completed project",
+      "subTitle2": "UNDERSTAND THE HEART BEHIND OUR CHOICE: WE BRING HOPE AND EDUCATION TO GUINEA-BISSAU BY SUPPORTING ESCOLA BOM SAMARITANO.",
+      "action2": "LEARN MORE",
+      "title3": "ANGOLA: WHAT COMES NEXT!",
+      "subTitle3": "Big news is coming! We are evaluating a new partnership on an educational project in Angola. Stay tuned for further updates.",
+      "action3": "BE PART OF IT!"
     },
     "aboutSection": {
-      "title": "LEARN MORE ABOUT OÁSIS",
-      "subTitle": "We are a non-profit organization dedicated to <purple>transforming</purple> communities through accessible education and sustainable development, guided by <purple>Christian</purple> principles.",
+      "title": "ABOUT OASIS",
+      "subTitle": "We are a nonprofit organization dedicated to <purple>transforming</purple> communities through accessible education and sustainable development, guided by <purple>Christian</purple> principles.",
       "item1": {
         "title": "What is the main purpose of our organization?",
-        "subTitle": "Our purpose is to offer hope and opportunities to children in vulnerable situations, empowering them through knowledge and faith for a better future.",
-        "action": "LEARN MORE"
+        "subTitle": "Our purpose is to offer <strong>hope</strong> and opportunities to children in situations of vulnerability, empowering them through <strong>knowledge</strong> and <strong>faith</strong> for a better future.",
+        "action": "GET TO KNOW OASIS"
       }
     },
     "helpSection": {
       "title": "",
-      "subTitle": "While the world moves forward, they are left behind…",
-      "descriptionP1": "As the world advances in technology and comfort, hundreds of children face life without the BASICS: without school, without regular meals, without structure or prospects for the future.",
-      "descriptionP2": "<purple>WE CHOSE TO BE THE ANSWER TO THIS SITUATION!</purple>"
-    },
-    "item1": {
-      "title": "Education",
-      "subTitle": "Your financial support today will make a difference in the future of the children benefiting from the school and will impact their entire nation."
-    },
-    "item2": {
-      "title": "Faith",
-      "subTitle": "We believe in a firm trust in God, guiding our actions with integrity, compassion, and humility."
-    },
-    "cards": {
+      "subTitle": "When the world moves forward, they are left behind…",
+      "descriptionP1": "While the world advances in technology and comfort, hundreds of children face life without the BASICS: without school, without regular meals, without structure or prospects for the future.",
+      "descriptionP2": "<purple>WE DECIDED TO BE THE ANSWER TO THIS SITUATION!</purple>",
       "item1": {
-        "title": "DONATE",
-        "action": "Help Now →"
+        "title": "Education",
+        "subTitle": "Your financial support today will make a difference in the future of the children who benefit from the school and will impact their entire nation."
       },
       "item2": {
-        "title": "MONTHLY DONATION",
-        "action": "Contribute →"
+        "title": "Faith",
+        "subTitle": "We believe in placing firm trust in God, guiding our actions with integrity, compassion, and humility."
       },
-      "item3": {
-        "title": "PARTNERSHIPS",
-        "action": "Learn More →"
+      "cards": {
+        "item1": {
+          "title": "LEARN MORE",
+          "action": "→"
+        },
+        "item2": {
+          "title": "MONTHLY DONATION",
+          "action": "Contribute →"
+        },
+        "item3": {
+          "title": "PARTNERSHIPS",
+          "action": "Learn More →"
+        },
+        "item4": {
+          "title": "SPREAD THE WORD",
+          "action": "Share →"
+        }
       },
-      "item4": {
-        "title": "SPREAD OUT",
-        "action": "Share →"
-      }
+      "action": "WHO WE ARE"
     },
-    "action": "WHO WE ARE",
     "learnSection": {
-      "title": "Guinea-Bissau: Bom Samaritano School - Finished",
-      "subTitle": "When we began supporting Sister Raquel’s Bom Samaritano School, there was land, a basic house structure, a dream, and great need. Thanks to you, there is now an active school.",
-      "subTitle2": "Become an Oasis partner and together we will contribute to more projects like this!",
-      "action": "HELP NOW"
+      "title": "Guinea-Bissau: Escola Bom Samaritano - Completed",
+      "subTitle": "When we began supporting Sister Raquel’s Escola Bom Samaritano, there was a plot of land, the structure of a house, a dream, and great need. Thanks to you, there is now a school in operation.",
+      "subTitle2": "Become an Oásis partner, and together we will contribute to more projects like this!",
+      "action": "DONATE NOW"
     },
     "joinSection": {
-      "title": "Come be a part",
-      "subTitle": "Your prayers for our partner projects and for the entire team are very important to us.",
+      "title": "Come be part of it",
+      "subTitle": "Your prayer and intercession for our partner projects and the entire OASIS team will make a difference in helping us achieve the goals shared here. We count on you to devote time to praying for us!",
       "action": "SEND US YOUR PRAYER"
     },
     "motivationSection": {
-      "text": "'Teaching a child is planting a seed of hope that can bloom forever.' — Mary Slessor"
+      "text": "'Teaching a child is planting a seed of hope that can bloom forever.' - Mary Slessor"
     },
     "formSection": {
       "title": "Get in touch with us",
-      "subTitle": "We welcome your questions, suggestions, prayers, and partnership inquiries. We look forward to connecting with you!",
-      "action": "SEND US YOUR MESSAGE",
-      "inputName": "Name",
-      "inputEmail": "E-mail",
-      "inputMessage": "Type your message to us",
-      "success": "Message sent successfully! We'll get back to you soon.",
-      "error": "Failed to send message. Please try again."
+      "subTitle": "We are available to receive your questions, suggestions, prayers, and partnership proposals. We look forward to getting in touch with you!",
+      "action": "SEND YOUR MESSAGE",
+      "inputName": "Enter your name",
+      "inputEmail": "Enter your email",
+      "inputMessage": "Enter your message for us!",
+      "success": "Message sent successfully! We will get in touch soon.",
+      "error": "Failed to send the message. Try again."
     },
     "footer": {
       "title": "We believe in the transformative power of education"
     }
   },
-  "ProjectsPage": {
+  "ContributePage": {
+    "title": "SOW WITH LOVE!",
+    "subTitle": "Together, we will transform the lives of many children in situations of vulnerability!",
+    "otherPaymentMethods": "You can donate using the following payment methods:",
+    "info1": "PIX: 06244093000186",
+    "bankInfoBranch": "Branch",
+    "bankInfoNumber": "Checking Account",
+    "bankInfoName": "OASE ORGÃO DE ASSISTENCIA SOCIAL E ESPIRITUAL",
+    "formSection": {
+      "amount": "Amount",
+      "email": "EMAIL",
+      "name": "FULL NAME",
+      "card": "CARD NUMBER",
+      "submit": "CONFIRM PAYMENT",
+      "submitting": "PROCESSING...",
+      "currencies": {
+        "eur": "EURO €",
+        "brl": "REAL R$",
+        "usd": "USD $"
+      },
+      "plans": {
+        "monthly": "monthly",
+        "oneTime": "One-time",
+        "donation": "donation"
+      },
+      "success": {
+        "title": "Thank you, your donation makes a difference!",
+        "oneTime": "Your one-time donation was processed successfully.",
+        "subscription": "Your monthly donation was set up successfully.",
+        "return": "Go back"
+      },
+      "errors": {
+        "loading": "The payment system is still loading. Please try again in a moment.",
+        "requiredFields": "Please fill in all required fields",
+        "invalidAmount": "Please enter a valid amount",
+        "cardElement": "Card element not found",
+        "payment": "An error occurred while processing your payment",
+        "setup": "Failed to set up the payment",
+        "subscription": "Failed to create the subscription",
+        "unexpected": "An unexpected error occurred"
+      }
+    },
+    "donorPage": {
+      "text": "Already a donor? Access the donor portal here:",
+      "action": "DONOR PORTAL"
+    },
+    "donorPortalModal": {
+      "title": "Donor Portal",
+      "description": "To access our donor portal, please indicate below the currency in which you make your monthly donation.",
+      "currencyLabel": "Select the currency:",
+      "confirmButton": "CONFIRM",
+      "imageAlt": "Child smiling and waving"
+    }
+  },
+  "ContributeSuccessPage": {
+    "title": "THANK YOU FOR YOUR DONATION!",
+    "action1": "Home",
+    "action2": "CONTRIBUTE"
+  },
+  "ContributeCancelPage": {
+    "title": "THERE WAS AN ERROR WITH THE PAYMENT. PLEASE TRY AGAIN.",
+    "action": "CONTRIBUTE"
+  },
+  "HelpPage": {
+    "title": "How can you help?",
+    "subtitle": "Join us in making a difference in children’s lives",
     "section1": {
-    "title": "Guinea-Bissau: Good Samaritan School | Completed",
-    "description": "Our first partner project began in <purple>Bantandja</purple>, a small village in the far east of Guinea-Bissau, with around 646 inhabitants. The community’s reality is marked by more than <purple>70% illiteracy, a monthly income below 15 dollars, food insecurity, and an almost complete lack of basic infrastructure</purple>, such as schools and healthcare.",
-    "description2": "We at the <purple>OASIS Family</purple> joined forces with the <purple>Good Samaritan School</purple>, and thanks to the generosity of every Oasis partner, we were able to support the construction of a school that now welcomes underprivileged children from the region, offering education, meals, and a place of care and hope.",
-    "description2b": "There are words that come before any news, and this is one of them: <purple>thank you.</purple> Thank you for believing. Thank you for giving your time, your money, and your prayers to something that often happens far from your eyes, yet close to your heart. It is because of <purple>each one of you</purple> that we have something tangible to share through this project.",
-    "description3": "<purple>What your support covered:</purple> All the construction materials and labor required to complete this project were made possible through your contributions. Every brick, every bag of cement, every hour of work — everything was possible because of you. The well was the longest and most demanding stage. When we think about everything it took to get here, the word that comes to mind is: Gratitude. <purple>Today, there is an active school!</purple>"
+      "item1": {
+        "title": "Financial donations",
+        "action": "CONTRIBUTE",
+        "subTitle": "You can also donate using the following payment methods:",
+        "info1": "PIX: 06244093000186",
+        "bankInfoBranch": "Branch",
+        "bankInfoNumber": "Checking Account",
+        "bankInfoName": "OASE ORGÃO DE ASSISTENCIA SOCIAL E ESPIRITUAL",
+        "info3": "Card payment:"
+      },
+      "item2": {
+        "title": "Prayer and intercession",
+        "description": "Your prayers for our partner projects and the entire team are very important to us!"
+      },
+      "item3": {
+        "title": "Spreading the word",
+        "description": "Share Um Oásis nas Nações to raise awareness and encourage as many people as possible to make a difference in a child’s life.",
+        "action": "SHARE"
+      }
     },
     "section2": {
-      "title": "STAGES OF THE BOM SAMARITAN SCHOOL",
+      "title": "HOW CAN YOUR COMPANY SUPPORT THIS CAUSE?",
+      "subtitle": "Supporting the Escola Bom Samaritano Project is an opportunity for companies that wish to make a social impact and leave a legacy of transformation.",
+      "partnerships": {
+        "title": "Institutional Partnerships",
+        "description": "Companies can become official donors to the project and have their brand associated with this impactful initiative."
+      },
+      "infrastructure": {
+        "title": "Infrastructure Sponsorship",
+        "description": "Support the construction of the school and help create extracurricular activities, such as arts and sports, as well as recreational areas once the school is operating."
+      },
+      "campaigns": {
+        "title": "Campaigns and Mobilization",
+        "description": "Engage employees and customers in fundraising and awareness activities."
+      }
+    }
+  },
+  "ProjectsPage": {
+    "section1": {
+      "title": "Guinea-Bissau: Escola Bom Samaritano | Completed",
+      "description": "Our first partner project began in <purple>Bantandja</purple>, a small village in the far east of Guinea-Bissau with about 646 inhabitants. The community faces <purple>an illiteracy rate of over 70%, a monthly income of less than 15 dollars, food insecurity, and an almost total lack of basic infrastructure</purple>, such as schools and healthcare.",
+      "description2": "We, the <purple>OÁSIS Family</purple>, joined forces with <purple>Escola Bom Samaritano</purple> and, thanks to the generosity of each Oasis partner, we were able to support the construction of a school that now welcomes children in need from the region, offering education, food, and a place of welcome and hope.",
+      "description2b": "Some words come before any news, and this is one of them: <purple>thank you.</purple> Thank you for believing. Thank you for giving your time, your money, and your prayers to something that often happens far from your eyes but close to your hearts. It is because of <purple>each of you </purple>that we have something tangible to share through this project.",
+      "description3": "<purple>What your help covered:</purple> All the building materials and labor needed to complete this work were secured with your contributions. Every brick, every bag of cement, every hour of work: it was all possible thanks to you. The well was the longest and most demanding stage. When we think about everything it took to get here, the word that comes to mind is: Gratitude. <purple>Today, there is a school in operation!</purple>"
+    },
+  
+    "section2": {
+      "title": "STAGES OF ESCOLA BOM SAMARITANO",
       "item1": {
         "title": "Fundraising",
-        "description": "Fundraising Campaign for Construction: 50,000€: ~R$318,595.92 <ul><li>Sound system for the classrooms</li> <li>Construction of kitchen, cafeteria, bathrooms, and teachers' house</li> <li>Artesian well for water supply</li> <li>Purchase of furniture, including tables, chairs, cabinets, stove, refrigerator</li> <li>Installation of solar panels for sustainable energy supply</li> <li>Protective wall around the school</li></ul>"
+        "description": "Construction fundraising campaign: 50.000€: ~R$318,595.92 <ul><li>Sound system for the classrooms</li> <li>Construction of a kitchen, dining hall, bathrooms, and a house for teachers</li> <li>Artesian well for the water supply</li> <li>Purchase of furnishings, including tables, chairs, cabinets, a stove, and a refrigerator</li> <li>Installation of solar panels for a sustainable energy supply</li> <li>Protective wall around the school</li></ul>"
       },
       "item2": {
         "title": "Construction of School Infrastructure",
-        "description": "Build and equip the school to meet the needs of the children in the Bantaja region, from hiring local construction teams to overseeing the progress of the work to ensure quality and safety."
+        "description": "Build and equip the school to meet the needs of children in the Bantandja area, from hiring local construction teams to supervising the progress of the work to ensure quality and safety."
       },
       "item3": {
-        "title": "Recruitment of Teachers",
-        "description": "Ensure a qualified team of teachers, aligned with the values and vision of Oasis, as well as validated by the Guinean educational curriculum."
+        "title": "Hiring Teachers",
+        "description": "Ensure a qualified teaching team that is aligned with the values and vision of Oasis and is validated by the Guinean educational curriculum."
       },
       "item4": {
-        "title": "Admission of Students",
-        "description": "Admission of 150 children to the school in two shifts (morning and afternoon) starting with a screening process to ensure the inclusion of children in situations of greater vulnerability."
+        "title": "Student Admissions",
+        "description": "Admit 150 children to the school in two shifts (morning and afternoon), using a screening process to ensure the inclusion of children in the most vulnerable situations."
       },
       "item5": {
-        "title": "Official Opening of the School",
-        "description": "Celebration of the school's inauguration with the local community, conducting continuous monitoring of the school's operations. A key focus on ensuring students receive meals during school hours."
+        "title": "Official Inauguration of the School",
+        "description": "Celebrate the school’s inauguration with the local community and monitor its operations on an ongoing basis. A key focus is ensuring that students are fed during school hours."
       },
       "item6": {
-        "title": "Sustainability of the Project",
-        "description": "Launch of the 'Educate a Child' campaign, where supporters contribute monthly to maintain a student's education and to expand the school, reaching more members of the community."
+        "title": "Project Sustainability",
+        "description": "Launch the 'Educate a Child' campaign, in which supporters contribute monthly to sustain a student’s education and expand the school, reaching more members of the community."
       }
     },
     "section3": {
       "steps": {
         "1": {
-          "title": "Resource Collection",
-          "description": "Collect the necessary resources to start the project. Campaign to raise funds for construction 50.000€ = 318,595.92 reais",
+          "title": "Fundraising",
+          "description": "Gather the financial resources needed to start the project. Construction fundraising campaign 50.000€ = 318,595.92 reais",
           "items": {
-            "1": "Soundproofing of classrooms",
-            "2": "Construction of kitchen, dining room and bathrooms and teachers' house",
-            "3": "Artesian well for water supply",
-            "4": "Purchase of furniture from tables, chairs, cabinets, stove, refrigerator",
-            "5": "Installation of solar panels for sustainable energy supply",
-            "6": "School perimeter wall"
+            "1": "Sound systems for the classrooms",
+            "2": "Construction of a kitchen, dining hall, bathrooms, and a house for teachers",
+            "3": "Artesian well for the water supply",
+            "4": "Purchase of furnishings such as tables, chairs, cabinets, a stove, and a refrigerator",
+            "5": "Installation of solar panels for a sustainable energy supply",
+            "6": "Protective wall around the school"
           }
+        },
+        "2": {
+          "title": "Construction of School Infrastructure",
+          "description": "Build and equip the school to meet the needs of children in the Bantandja area, from hiring local construction teams to supervising the progress of the work to ensure quality and safety."
+        },
+        "3": {
+          "title": "Hiring Teachers",
+          "description": "Ensure a qualified teaching team that is aligned with the values and vision of Oasis and is validated by the Guinean educational curriculum."
+        },
+        "4": {
+          "title": "Student Admissions",
+          "description": "Admit 150 children to the school in two shifts (morning and afternoon), using a screening process to ensure the inclusion of children in the most vulnerable situations."
+        },
+        "5": {
+          "title": "Opening of the School",
+          "description": "Celebrate the school’s inauguration with the local community and monitor its operations on an ongoing basis. A key focus is ensuring that students are fed during school hours."
+        },
+        "6": {
+          "title": "Project Sustainability",
+          "description": "Launch the \"Educate a Child\" campaign, in which supporters contribute monthly to support a student and expand the school, reaching more and more of the community."
+        }
+      }
+    },
+    "section4": {
+      "title": " Goal 10K: The Classroom That Will Change Everything",
+      "space": " ",
+      "description1": "<purple>Accountability is an essential part of our commitment.</purple> Every resource will be used responsibly and transparently because we believe integrity also educates.",
+      "description2": "<purple>The classroom will be built. The children will study. And you can be part of it! </purple>",
+      "description": "We are running a fundraising campaign with a goal of 10 thousand euros to take the <purple>first concrete steps</purple> in establishing the school in Bantandja. This amount will allow us to take the first concrete steps to transform the situation in Bantandja by ensuring:",
+      "stats": {
+        "1": {
+          "description": "Legalization and official registration of the <bold>school</bold>"
+        },
+        "2": {
+          "description": "Construction of the <bold>first</bold> classroom"
+        },
+        "3": {
+          "description": "Initial school <bold>equipment</bold> and furnishings"
+        },
+        "4": {
+          "description": "<bold>Installation</bold> of a bathroom and a kitchen"
+        },
+        "5": {
+          "description": "Solar power system for a <bold>basic power supply</bold>"
+        },
+        "6": {
+          "description": "Drilling a well for access to <bold>drinking water</bold>"
+        },
+        "7": {
+          "description": "<bold>Security</bold> gate to protect the students"
+        },
+        "8": {
+          "description": "Hiring a <bold>teacher</bold> and local support staff"
+        },
+        "9": {
+          "description": "Immediate start of the enrollment process for the <bold>first children</bold>"
         }
       }
     }
+  },
+  "WhoWeArePage": {
+    "section1": {
+      "title": "ABOUT US",
+      "item1": {
+        "title": "Who We Are",
+        "description": "<purple>Oásis nas Nações</purple> is a nonprofit organization, guided by Christian principles, based in Portugal and Brazil. Our mission is to support communities in situations of vulnerability around the world, expanding children’s access to education and promoting sustainable development. We completed our first project in the community of Bantandja, in Guinea-Bissau, Africa, where we supported the construction of Escola Bom Samaritano."
+      },
+      "item2": {
+        "title": "Our Vision",
+        "description": "<purple>Our purpose</purple> is to break generational cycles of poverty by offering hope and real opportunities to children in situations of vulnerability."
+      },
+      "item3": {
+        "title": "Our Mission",
+        "description": "<purple>We believe</purple> that every child has the right to LEARN, GROW, and DREAM of a different future."
+      }
+    },
+    "section2": {
+      "title": "OUR VALUES",
+      "item1": {
+        "title": "Hope",
+        "description": "We nurture hope by offering tangible opportunities for growth, stability, and a renewed sense of possibility."
+      },
+      "item2": {
+        "title": "Faith",
+        "description": "We believe in placing firm trust in God, guiding our actions with integrity, compassion, and humility."
+      },
+      "item3": {
+        "title": "Transformation",
+        "description": "We believe in the transformative power of education to equip individuals with the tools and confidence they need to shape their destinies and contribute positively to society."
+      }
+    }
+  },
+  "PrivacyPolicy": {
+    "title": "PRIVACY POLICY",
+    "lastUpdated": "Last updated",
+    "updateDate": "August 05, 2025",
+    "introduction": "OASE – Órgão de Assistência Social e Espiritual values the privacy of its supporters, beneficiaries, volunteers, and visitors. This policy describes how we process your personal data in accordance with the General Personal Data Protection Law (LGPD – Law No. 13.709/2018).",
+    "interpretationTitle": "1. Who we are",
+    "interpretationText": "OASE – Órgão de Assistência Social e Espiritual, registered with the CNPJ under No. 06.244.093/0001-86, acts as the controller of the personal data processed under this policy.",
+    "definitionsTitle": "2. Data we collect",
+    "definitionsIntro": "We may collect the following personal data:",
+    "accountDefTitle": "- Full name",
+    "accountDefText": "",
+    "affiliateDefTitle": "- Email",
+    "affiliateDefText": "",
+    "companyDefTitle": "- Phone number",
+    "companyDefText": "",
+    "cookiesDefTitle": "- Payment data (for donations)",
+    "cookiesDefText": "",
+    "countryDefTitle": "- Donation and interaction history",
+    "countryDefText": "",
+    "deviceDefTitle": "- Browsing data (cookies and IP)",
+    "deviceDefText": "",
+    "personalDataDefTitle": "3. How we collect data",
+    "personalDataDefText": "Data may be collected through:",
+    "serviceDefTitle": "- Online forms",
+    "serviceDefText": "(registration, contact, donations)",
+    "serviceProviderDefTitle": "- Event registration",
+    "serviceProviderDefText": "",
+    "usageDataDefTitle": "- Cookies and similar technologies",
+    "usageDataDefText": "",
+    "websiteDefTitle": "- Direct communication by email or phone",
+    "websiteDefText": "",
+    "youDefTitle": "4. Purposes of data collection",
+    "youDefText": "We use the data to:",
+    "collectingDataTitle": "Process donations and issue receipts.",
+    "typesOfDataTitle": "Send newsletters and institutional communications",
+    "personalDataTitle": "Manage events and social campaigns",
+    "personalDataText": "Comply with legal obligations",
+    "personalDataEmail": "Improve navigation on our website",
+    "personalDataUsage": "5. Data sharing",
+    "usageDataTitle": "We do not sell your data to third parties. Data may be shared in the following situations:",
+    "usageDataText1": "When required by law.",
+    "usageDataText2": "With donation platforms, email systems, and services contracted under confidentiality",
+    "usageDataText3": "",
+    "trackingTitle": "6. Data security",
+    "trackingText": "We adopt technical and organizational measures to protect your data against unauthorized access, loss, or destruction.",
+    "trackingCookiesTitle": "7. Retention",
+    "trackingCookiesText": "Data is kept only for as long as necessary for the purposes described or as required by law.",
+    "trackingBeaconsTitle": "8. Your rights",
+    "trackingBeaconsText": "You may, at any time:",
+    "trackingBeaconsText2": "Access your data",
+    "trackingBeaconsText3": "Correct inaccurate data",
+    "trackingBeaconsText4": "Request deletion of your data",
+    "trackingBeaconsText5": "Withdraw your consent",
+    "trackingBeaconsText6": "Request cancellation of your monthly donation",
+    "trackingBeaconsText7": "To exercise your rights, please contact:",
+    "trackingBeaconsText8": "info@oasisnacoes.org",
+
+    "cookiesTypesText": "COOKIE POLICY",
+    "cookiesNecessaryTitle": "This website uses cookies to improve your experience and ensure its features work properly.",
+    "cookiesNecessaryType": "What are cookies?",
+    "cookiesNecessaryAdmin": "Cookies are small files saved on your device when you visit our website.",
+    "cookiesNecessaryPurpose": "They help store preferences and collect information for analytics purposes.",
+    "cookiesAcceptanceTitle": "Types of cookies used:",
+    "cookiesAcceptanceType": "- Essential: Necessary for the website to function.",
+    "cookiesAcceptanceAdmin": "- Analytics: Collect data for visitor statistics (e.g., Google Analytics).",
+    "cookiesAcceptancePurpose": "- Functional: Store language preferences or sessions.",
+    "cookiesAcceptancePurpose2": "- Third-party: Used by integrated services such as videos, social media, or donation systems.",
+
+    "cookiesFunctionalityTitle": "How to control cookies?",
+    "cookiesFunctionalityType": "You can configure your browser to refuse cookies.",
+    "cookiesFunctionalityAdmin": "However, some features may stop working properly.",
+    "contactText": "If you have any questions about this Privacy Policy and Cookie Policy, you can contact us:",
+    "contactEmail": "By email: info@oasisnacoes.org",
+    "contactWebsite": "By visiting this page on our website:",
+
+    "cookiesFunctionalityPurpose": "Purpose: These Cookies allow us to remember the choices You make when You use the Website, such as Your login details or language preference. The purpose of these Cookies is to provide You with a more personal experience and prevent You from having to reenter Your preferences each time You use the Website.",
+    "cookiesMoreInfo": "For more information about the cookies we use and Your choices regarding cookies, please visit our Cookie Policy or the Cookies section of our Privacy Policy.",
+    "useOfDataTitle": "Use of Your Personal Data",
+    "useOfDataIntro": "The Company may use Personal Data for the following purposes:",
+    "useProvideService": "To provide and maintain our Service, including to monitor the use of our Service.",
+    "useManageAccount": "To manage Your Account: to manage Your registration as a user of the Service. The Personal Data You provide may give You access to different features of the Service that are available to You as a registered user.",
+    "usePerformContract": "For the performance of a contract: the development, compliance with, and performance of the purchase contract for the products, items, or services You purchased or of any other contract with us through the Service.",
+    "useContactYou": "To contact You: To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as mobile app push notifications about updates or informational communications related to contracted features, products, or services, including security updates, when necessary or reasonable for their implementation.",
+    "useProvideNews": "To provide You with news, special offers, and general information about other goods, services, and events that we offer and that are similar to those You have already purchased or asked about, unless You have opted out of receiving such information.",
+    "useManageRequests": "To manage Your requests: To respond to and manage Your requests to Us.",
+    "useBusinessTransfers": "For business transfers: We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or a similar proceeding, in which Personal Data We hold about users of our Service is among the assets transferred.",
+    "useOtherPurposes": "For other purposes: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns, and evaluating and improving our Service, products, services, marketing, and your experience.",
+    "sharingDataIntro": "We may share Your personal information in the following situations:",
+    "shareWithProviders": "With Service Providers: We may share Your personal information with Service Providers to monitor and analyze the use of our Service and to contact You.",
+    "shareForTransfers": "For business transfers: We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or part of Our business by another company.",
+    "shareWithAffiliates": "With Affiliates: We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners, or other companies that We control or that are under common control with Us.",
+    "shareWithPartners": "With business partners: We may share Your information with Our business partners to offer You certain products, services, or promotions.",
+    "shareWithUsers": "With other users: When You share personal information or otherwise interact in public areas with other users, that information may be viewed by all users and may be publicly distributed outside those areas.",
+    "shareWithConsent": "With Your consent: We may disclose Your personal information for any other purpose with Your consent.",
+    "retentionTitle": "Retention of Your Personal Data",
+    "retentionText1": "The Company will retain Your Personal Data only for as long as necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.",
+    "retentionText2": "The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period, except when this data is used to strengthen security or improve the functionality of Our Service, or when We are legally required to retain this data for longer periods.",
+    "transferTitle": "Transfer of Your Personal Data",
+    "transferText1": "Your information, including Personal Data, is processed at the Company’s operating offices and in any other places where the parties involved in the processing are located. This means that this information may be transferred to — and maintained on — computers located outside Your state, province, country, or other governmental jurisdiction where data protection laws may differ from those of Your jurisdiction.",
+    "transferText2": "Your consent to this Privacy Policy, followed by Your submission of such information, represents Your agreement to that transfer.",
+    "transferText3": "The Company will take all steps reasonably necessary to ensure that Your data is handled securely and in accordance with this Privacy Policy, and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place, including the security of Your data and other personal information.",
+    "deleteDataTitle": "Delete Your Personal Data",
+    "deleteDataText1": "You have the right to delete or request that We assist in deleting the Personal Data We have collected about You.",
+    "deleteDataText2": "Our Service may give You the ability to delete certain information about You from the Service itself.",
+    "deleteDataText3": "You may update, correct, or delete Your information at any time by signing in to Your Account, if You have one, and visiting the account settings section that allows You to manage Your personal information. You may also contact us to request access to, correction of, or deletion of any personal information that You have provided to us. Please note, however, that we may need to retain certain information when we have a legal obligation or legal basis to do so.",
+    "disclosureTitle": "Disclosure of Your Personal Data",
+    "businessTransactionsTitle": "Business Transactions",
+    "businessTransactionsText": "If the Company is involved in a merger, acquisition, or sale of assets, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.",
+    "lawEnforcementTitle": "Law Enforcement",
+    "lawEnforcementText": "Under certain circumstances, the Company may be required to disclose Your Personal Data if required by law or in response to valid requests from public authorities (for example, a court or a government agency).",
+    "otherLegalTitle": "Other legal requirements",
+    "otherLegalText": "The Company may disclose Your Personal Data in the good-faith belief that such action is necessary to:",
+    "legalObligation": "Comply with a legal obligation",
+    "protectCompany": "Protect and defend the rights or property of the Company",
+    "preventWrongdoing": "Prevent or investigate possible wrongdoing in connection with the Service",
+    "protectUsers": "Protect the personal safety of Users of the Service or the public",
+    "protectLiability": "Protect against legal liability",
+    "securityTitle": "Security of Your Personal Data",
+    "securityText": "The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet or method of electronic storage is 100% secure. Although We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.",
+    "childrenTitle": "Children’s Privacy",
+    "childrenText1": "Our Service is not directed at anyone under 13 years of age. We do not intentionally collect personally identifying information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided us with Personal Data, please contact us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.",
+    "childrenText2": "If We need to rely on consent as the legal basis for processing Your information and Your country requires parental consent, We may require consent from Your parents before collecting and using that information.",
+    "linksTitle": "Links to Other Websites",
+    "linksText1": "Our Service may contain links to other websites that are not operated by Us. If You click on a third-party link, You will be directed to that third party’s website. We strongly recommend that You review the Privacy Policy of each website You visit.",
+    "linksText2": "We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party websites or services.",
+    "changesTitle": "Changes to this Privacy Policy",
+    "changesText1": "We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.",
+    "changesText2": "We will inform You by email and/or by a prominent notice on Our Service before the change takes effect and will update the 'Last updated' date at the top of this Privacy Policy.",
+    "changesText3": "You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy take effect when they are published on this page.",
+    "contactTitle": "Contact Us"
   }
 }
